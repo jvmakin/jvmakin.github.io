@@ -2,4 +2,5 @@
 title: resume
 permalink: /resume/
 ---
+
 <embed width="100%" height="100%" name="plugin" id="plugin" src="http://jvmakin.github.io/pdf/Resume.pdf" type="application/pdf" internalinstanceid="3">
