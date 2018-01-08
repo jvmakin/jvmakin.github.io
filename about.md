@@ -1,7 +1,7 @@
 ---
 layout: page
 title: resume
-permalink: /resume/
+permalink: https://jvmakin.github.io/Resume.pdf
 ---
 
 <!-- <img class="col one right" src="/img/prof_pic.jpg"> -->
@@ -11,6 +11,7 @@ Write your biography here. Tell the world about yourself. Link to your favorite 
 
 Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them.
 
+<embed src="https://jvmakin.github.io/NewResume.pdf" type="application/pdf" />
 
 <br/>
 <hr/>

@@ -11,7 +11,7 @@
 ">
 
     <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="http://localhost:4000/resume/">
+    <link rel="canonical" href="http://localhost:4000/https:/jvmakin.github.io/Resume.pdf">
 
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 </head>
@@ -31,7 +31,7 @@
 
         
           
-          <a class="page-link" href="/resume/">resume</a>
+          <a class="page-link" href="/https:/jvmakin.github.io/Resume.pdf">resume</a>
           
         
           
@@ -72,6 +72,8 @@
 Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture “prof_pic.jpg” and put it in the img folder.</p>
 
 <p>Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them.</p>
+
+<embed src="https://jvmakin.github.io/NewResume.pdf" type="application/pdf" />
 
 <p><br /></p>
 <hr />
