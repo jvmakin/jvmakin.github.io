@@ -3,7 +3,7 @@ layout: post
 title: Creepy Chicago App
 date: 2016-08-31
 ---
-<a class="poem-title" href="https://github.com/jvmakin/mpcs51030-2016-summer-project-jvmakin/blob/master/jvmakin_marketing.pdf"> Source Code </a>
+<a class="poem-title" href="https://github.com/jvmakin/mpcs51030-2016-summer-project-jvmakin"> Source Code </a>
 
 # An app which allows users to take an interactive tour of the creepy side of the Windy City
 This app was created as a final project for the iOS Application Development course. It has not been updated to run with Swift 3 and the Backendless license has expired, but the source code is still available.
