@@ -1,0 +1,29 @@
+---
+layout: post
+title: Coursera Projects
+date: 2018-01-08
+---
+
+# <b>Completed courses</b>
+<br>
+Introduction to Genomic Technologies<br>
+<a href="https://www.coursera.org/account/accomplishments/certificate/3Z42DTXAN484"> Course certificate</a>
+
+Python for Genomic Data Science<br>
+<a href="https://www.coursera.org/account/accomplishments/certificate/B8WRK42C9CBD"> Course certificate</a><br>
+<a href="https://github.com/jvmakin/Coursera-Projects/tree/master/Completed/Python%20for%20Genomic%20Data%20Science"> Code</a>
+
+Algorithms for DNA Sequencing<br>
+<a href="https://www.coursera.org/account/accomplishments/certificate/BKRRCHRC33Q5"> Course certificate</a><br>
+<a href="https://github.com/jvmakin/Coursera-Projects/tree/master/Completed/Algorithms%20for%20DNA%20Sequencing"> Code</a>
+
+
+# <b>In Progress</b>
+<br>
+Machine Learning Foundations: A Case Study Approach<br>
+<a href="https://www.coursera.org/learn/ml-foundations/home/welcome"> Course website</a><br>
+<a href="https://github.com/jvmakin/Coursera-Projects/tree/master/In%20Progress/Case%20Studies"> Code</a>
+
+Machine Learning by Stanford University<br>
+<a href="https://www.coursera.org/learn/machine-learning/home/welcome"> Course website</a><br>
+<a href="https://github.com/jvmakin/Coursera-Projects/tree/master/In%20Progress/Stanford%20ML"> Code</a>
