@@ -3,7 +3,32 @@ layout: post
 title: Undergraduate Thesis
 date: 2013-06-01
 ---
-
+# Abstract
+<br>
+Rap2 is a member of the large family of Ras GTPases. Unlike many of the other Ras GTPases,
+however, the function of Rap2 remains poorly characterized. In previous studies, Rap2 has been
+shown to be linked to actin cytoskeleton remodeling. In addition, contradictory results for the
+role of Rap2 in promoting migration suggest a more complicated role for Rap2 in this process.
+Focal adhesions (FAs), protein complexes that connect the extracellular matrix (ECM) to the
+cytoskeleton, are critically involved in cell motility, but the role of Rap2 in focal adhesion
+dynamics has not been examined. In this study, we generated Rap2 mutant-expressing
+keratinocytes using a lentiviral infection system and examined the effect on cell motility and
+cytoskeletal dynamics. Random motility assays demonstrated that dominant negative Rap2
+infected keratinocytes (Rap2N17) exhibited greater cell motility than did constitutively active
+Rap2 mutant infected keratinocytes (Rap2V12). In addition, immunostaining revealed aberrant
+changes in size and intensity of FA staining in cells expressing Rap2V12 as compared to
+Rap2N17. Building off of this, examination of zyxin dynamics demonstrated a statistically
+significant increase in focal adhesion assembly and disassembly rates in Rap2N17 as compared
+to Rap2V12 keratinocytes. Furthermore, analysis of EB3 migration suggests that Rap2N17, but
+not Rap2V12, promotes increased microtubule growth speed. This data suggests that downregulation
+of Rap2 may enhance motility by promoting focal adhesion turnover in keratinocytes,
+potentially through changes in microtubule regulation. Furthermore, a chemotaxis assay
+confirmed that Rap2N17 promotes keratinocyte invasion into a matrigel under gradient serum
+induction, perhaps linking Rap2 to metastasis. In summary, our study highlights the importance
+of Rap2 on cell motility and its potential role in cell invasion.
+<br><br>
+# Link to Full Text
+<br>
 <a class="page-link" href= "{{ site.url }}/Thesis - Final PDF.pdf">
 Rap2 Down-Regulation Promotes Cell Motility Through Focal
 Adhesion Turnover</a>  
