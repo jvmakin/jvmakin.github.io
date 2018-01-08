@@ -1,0 +1,17 @@
+---
+layout: post
+title: TA Projects - Scrabble Problem
+date: 2017-02-13
+---
+
+# One of the final projects from the 2017 Introduction to Python Programming course
+Jane's answer guide to a programming problem where students were asked to generate words and corresponding scores from an input of scrabble tiles and a list of acceptable words. This program validates a users input, tests combinations of words against the list of accepted words, and returns the scores of valid words in highest to lowest order.
+
+# How to use
+1) Run Scrabble.py
+
+2) When prompted, enter letters
+
+3) Program will output valid scrabble words and scores
+
+<a class="poem-title" href="https://github.com/jvmakin/Scrabble"> Source Code </a>
