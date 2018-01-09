@@ -12,4 +12,4 @@ Included applications of basic statistical tests, as well as more advanced featu
 </iframe>
 <br>
 <a class="poem-title" href="https://github.com/jvmakin/Practicum-Project"> Source Code </a>
-Currently described as painfully messy.
+<br> Source code is in the process of being reorganized into a more readable format.
