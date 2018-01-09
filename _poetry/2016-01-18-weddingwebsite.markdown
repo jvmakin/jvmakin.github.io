@@ -2,6 +2,7 @@
 layout: post
 title: Wedding Website
 date: 2016-01-18
+description: Google App Engine based website
 ---
 
 # A website designed and built by Jane for her 2016 wedding

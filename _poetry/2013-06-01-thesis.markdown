@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Undergraduate Thesis
+title: Rap2 Down-Regulation Promotes Cell Motility Through Focal Adhesion Turnover
 date: 2013-06-01
+description: Undergraduate Thesis
 ---
 # Abstract
 <br>

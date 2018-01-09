@@ -2,6 +2,7 @@
 layout: post
 title: Cocktail Party Biology
 date: 2015-12-09
+description: Google App Engine based website
 ---
 <a class="poem-title" href="https://cocktailpartybio.appspot.com/"> Cocktail Party Biology Website </a>
 <br>

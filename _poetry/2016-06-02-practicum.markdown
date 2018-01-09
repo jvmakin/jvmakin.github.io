@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Practicum Project
+title: Predictive Analytics for Biomedical Data
 date: 2016-06-02
+description: Iterating towards a robust model using heterogeneous Parkinson's Disease data <br> UChicago Practicum Project
 ---
 # Ten week long practicum project on applying different statistical analysis techniques to a Parkinson's Disease dataset<br>
 Included applications of basic statistical tests, as well as more advanced feature selection and data interpolation techniques to produce a final model based on published paper

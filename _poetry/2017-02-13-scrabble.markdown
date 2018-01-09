@@ -1,7 +1,8 @@
 ---
 layout: post
-title: TA Projects - Scrabble Problem
+title: Teaching Assistant Project
 date: 2017-02-13
+description: Scrabble score generator
 ---
 
 # One of the final projects from the 2017 Introduction to Python Programming course

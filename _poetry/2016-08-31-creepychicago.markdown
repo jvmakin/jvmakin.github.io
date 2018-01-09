@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Creepy Chicago App
+title: Creepy Chicago
 date: 2016-08-31
+description: iOS application
 ---
 <a class="poem-title" href="https://github.com/jvmakin/mpcs51030-2016-summer-project-jvmakin"> Source Code </a>
 
